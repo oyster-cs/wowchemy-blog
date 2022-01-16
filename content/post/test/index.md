@@ -17,8 +17,7 @@ summary: "The Wowchemy website builder for Hugo, along with its starter
   much more"
 draft: false
 featured: false
-authors:
-  - qzhao
+authors: []
 tags:
   - AI
 categories:
